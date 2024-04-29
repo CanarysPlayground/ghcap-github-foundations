@@ -9,7 +9,6 @@ In this lab, you will:
 - Create a new branch.
 - Make changes to a file and push them to GitHub as commits.
 - Open and merge a pull request.
-- 
 
 ### Prerequisites
 
@@ -30,11 +29,11 @@ A repository is the most basic element of GitHub. It's a place where you can sto
 
 1. In the "Description" box, type a short description. For example, type "This repository is for practising the GitHub Flow."
 
-1. Select whether your repository will be Public or Private.
+1. Select whether your repository will be **Public** or **Private**.
 
-1. Select Add a README file.
+1. Select **Add a README file**.
 
-1. Click Create repository.
+1. Click **Create repository**.
 
      ![new-repo](../images/create-repo-new-2.png)
 
