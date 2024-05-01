@@ -23,9 +23,8 @@ A repository is the most basic element of GitHub. It's a place where you can sto
 
    ![new-repo](../images/create-repo-new.png)
 
-1. In 'Create a new repository' page, in the "Repository name" box, type hello-world.
+1. In `Create a new repository` page, in the "Repository name" box, type `github-foundations-lab`.
 
-1. In the "Repository name" box, type hello-world.
 
 1. In the "Description" box, type a short description. For example, type "This repository is for practising the GitHub Flow."
 
